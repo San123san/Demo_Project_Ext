@@ -5,3 +5,4 @@ The extension help to find the Title.
 * HTML
 * JavaScript
 * CSS
+* JSON
